@@ -1,7 +1,7 @@
 # The School
-## A project that was developed with PHP language and MVC architecture pattern.
+* A project that was developed with PHP language and MVC architecture pattern.
 
-## Management system of students, courses and school staff.
+* Management system of students, courses and school staff.
 
 ### Login:
 
