@@ -17,7 +17,7 @@
 
 ### Student View:
 
-![picture](./images/stident-view.PNG)
+![picture](./images/student-view.PNG)
 
 ### Student Edit:
 
@@ -31,6 +31,6 @@
 
 ![picture](./images/course-edit.PNG)
 
-### admin-edit:
+### Admin Edit:
 
 ![picture](./images/admin-edit.PNG)
