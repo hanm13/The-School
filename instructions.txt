@@ -1,0 +1,1 @@
+1. Configure VHost so the public folder will be public_html .

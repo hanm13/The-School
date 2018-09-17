@@ -1,0 +1,126 @@
+* {
+	margin: 0 auto;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-attachment: fixed;
+	font: normal 18px tahoma,helvetica,arial,sans-serif;
+	background-size: 100% 100%;
+}
+
+.clearfix{
+
+	content:'';
+	display:block;
+	clear:both;
+}
+
+
+.loginForm{
+
+	border: solid 2px black;
+
+}
+
+
+#school-courses-students-administrators{
+
+	position: relative;
+	width: 100%;
+	height: 100%;
+ 	padding: 5px;
+	display: flex;
+
+}
+
+/* arrows */
+
+.arrowright {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}
+
+.arrowleft {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}
+
+.form-signin {
+	position: relative;
+	top: 30%;
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.students-courses-administrators-table{
+
+	margin:0;
+
+}
+.students-courses-administrators-img{
+
+	width: 50px;
+	height: 50px;
+	margin: 5px;
+
+}
+.administrators-img{
+
+	width: 50px;
+	height: 100px;
+	margin: 5px;
+
+}
+
+.scroll-box{
+
+	max-height: 50%;
+	overflow-y: scroll;
+
+}
+
+.imagePreview{
+
+	display: none;
+
+}
+
+#websiteLogo{
+
+	width: 100px;
+
+}
+
+a:active {
+
+	color:red;
+
+}
