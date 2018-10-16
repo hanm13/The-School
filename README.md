@@ -3,6 +3,24 @@
 
 * Management system of students, courses and school staff.
 
+## topics:
+
+### HTML + CSS :
+* HTML5 Structre
+* Bootstrap Design
+
+### PHP :
+* MVC Structre
+* Routing
+* Object Oriented
+* Password encryption
+
+### MySQL :
+* Design & create schema
+* Queries
+
+***
+
 ### Login:
 
 ![picture](./images/login.PNG)
