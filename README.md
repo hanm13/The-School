@@ -23,7 +23,7 @@
 
 ## Requirements:
 
-1. PHP web hosting.
+1. PHP environment.
 2. MySQL Database.
 
 ## How to run:
@@ -31,6 +31,8 @@
 1. Copy the Application files to your host ("mvc" and "inc" should be one directory before public_html).
 2. Configure the config.php file to suit your MySQL database connection.
 3. Run the sql file on your database, so you will have all the tables needed.
+4. Enter your website and than login to the owner account.
+
 
 ***
 
